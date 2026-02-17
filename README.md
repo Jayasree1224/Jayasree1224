@@ -83,8 +83,10 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jayasree1224/Jayasree1224/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Jayasree1224/Jayasree1224/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+
 
 
 ---
