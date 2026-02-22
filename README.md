@@ -16,7 +16,7 @@
 <tr>
 <td width="50%">
 
-### 🧠 HUNTER PROFILE
+### 🧠 PROFILE
 
 ```text
 Name        : Jayasree
