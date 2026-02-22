@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=JAYASREE%20|%20ENGINEERING%20IMPACT&fontSize=40&fontColor=00FFAB&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=220&section=header&text=JAYASREE%20&fontSize=40&fontColor=00FFAB&animation=twinkling"/>
 </p>
 
 <p align="center">
