@@ -71,14 +71,6 @@
 
 ---
 
-# 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jayasree1224&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
 
 # 🐍 Contribution Snake
 
@@ -93,7 +85,7 @@
 
 # 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 💼 LinkedIn: https://www.linkedin.com/in/jayasree1224 <br>
 📧 Email: 1224jayasree@gmail.com
 </p>
